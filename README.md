@@ -2,26 +2,43 @@
 
 ## 🚀 Competitive Programmer | Full Stack Developer
 
-B.Tech CSE Student passionate about problem solving, scalable systems, cinematic UI, and immersive web experiences.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+BIT+Sindri;Competitive+Programmer;Full+Stack+Web+Developer;Problem+Solver)](https://git.io/typing-svg)
+
+B.Tech in Computer Science & Engineering @ BIT Sindri (2027) | Competitive Programmer | Full Stack Web Developer | Problem Solver
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+## 🚀 Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java" />
+</p>
 
-### Animation & Graphics
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-![GSAP](https://img.shields.io/badge/GSAP-green?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge)
+---
+
+## 🧰 Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,threejs" />
+</p>
+
+---
+
+## 🗄 Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,vscode,postman" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+</p>
 
 ---
 
